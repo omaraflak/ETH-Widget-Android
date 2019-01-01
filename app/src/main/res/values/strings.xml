@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">ETH Widget</string>
+    <string name="activity_main_text">Add the ETH widget from your home screen ! \n\nETH widget updates every hour but you can click on it to refresh manually. \n\nPrice is pulled from coinmarketcap.com</string>
+    <string name="crypto_widget_text">Loading…</string>
+    <string name="add_widget">Add widget</string>
+</resources>
